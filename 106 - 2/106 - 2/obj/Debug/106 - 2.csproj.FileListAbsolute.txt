@@ -1,0 +1,7 @@
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\bin\Debug\106 - 2.exe.config
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\bin\Debug\106 - 2.exe
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\bin\Debug\106 - 2.pdb
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\obj\Debug\106 - 2.csprojAssemblyReference.cache
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\obj\Debug\106 - 2.csproj.CoreCompileInputs.cache
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\obj\Debug\106 - 2.exe
+C:\Users\CHOCO-PC\Desktop\Zlatko-zadachi-master\106 - 2\106 - 2\obj\Debug\106 - 2.pdb

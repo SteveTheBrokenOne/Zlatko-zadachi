@@ -1,0 +1,14 @@
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\bin\Debug\61 - 1.exe.config
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\bin\Debug\61 - 1.exe
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\bin\Debug\61 - 1.pdb
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\obj\Debug\61 - 1.csprojAssemblyReference.cache
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\obj\Debug\61 - 1.csproj.CoreCompileInputs.cache
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\obj\Debug\61 - 1.exe
+C:\Users\CHOCO-PC\source\repos\61 - 1\61 - 1\obj\Debug\61 - 1.pdb
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\bin\Debug\61 - 1.exe.config
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\bin\Debug\61 - 1.exe
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\bin\Debug\61 - 1.pdb
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\obj\Debug\61 - 1.csprojAssemblyReference.cache
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\obj\Debug\61 - 1.csproj.CoreCompileInputs.cache
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\obj\Debug\61 - 1.exe
+C:\Users\Kondio\Desktop\61 - 1\61 - 1\obj\Debug\61 - 1.pdb
